@@ -6,7 +6,7 @@
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my free time, I enjoy Music, DJ, Cooking, watching Movies/TV Shows &amp; break/build something.
 - 😄 Fun fact: ... I tend to like mathematics, but have difficulty with algorithms
-- 📰 _**Check out my project on <a href = "https://github.com/nadyaal"/>
+- 📰 _**Check out my project on [https://github.com/nadyaal] (https://github.com/nadyaal)
 <br/>
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
