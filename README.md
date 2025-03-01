@@ -1,7 +1,7 @@
 # Hi, I'm Nadya and welcome to my GitHub Profile! 👋
 <br/>
 
-<img src="![me](https://github.com/user-attachments/assets/86062118-d5be-4a79-97f2-9540e1667484)"/>
+<img src=""/>
 
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
