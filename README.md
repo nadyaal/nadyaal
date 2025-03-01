@@ -1,27 +1,60 @@
-<h1 align="center">Hi 👋, I'm Nadya Alicia Putri</h1>
-<h3 align="center">Saya memiliki ketertarikan dalam Data Analyst dan Machine Learning</h3>
+# Hi, I'm Nadya and welcome to my GitHub Profile! 👋
+<br/>
 
-<p align="center"> <img src = "https://blog.ecampuz.com/wp-content/uploads/2021/01/tips-job-seeker-ecampuz-1024x614.jpg" alt="foto"/><p>
+## 👨🏻‍💻 &nbsp;About Me&nbsp;
+- ⚡ An informatics student who is interested in data analysis and machine learning. Have studied HTML5, CSS3/SASS, R, MySQL, Java, and Python.
+- ✍️ Available for collaborattion on Voluntary and Community Projects.
+- 🎮 In my free time, I enjoy Music, DJ, Cooking, watching Movies/TV Shows &amp; break/build something.
+- 😄 Fun fact: ... I tend to like mathematics, but have difficulty with algorithms
+- 📰 _**Check out my project on [ ](https://github.com/nadyaal)
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadyaal&label=Profile%20views&color=0e75b6&style=flat" alt="nadyaal" /> </p>
+## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CD6799)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=adobe)
+<!--
+![Enzyme](https://img.shields.io/badge/-Enzyme-333333?style=flat&logo=enzyme)
+![Rest](https://img.shields.io/badge/-REST-333333?style=flat&logo=rest)
+![Restful](https://img.shields.io/badge/-RESTful-333333?style=flat&logo=restful)
+![API](https://img.shields.io/badge/-API-333333?style=flat&logo=api)
+![API](https://img.shields.io/badge/-API-333333?style=flat&logo=rest-api)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadyaal" alt="nadyaal" /></a> </p>
+[![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5238978)](https://stackoverflow.com/users/5238978/rishi-singh)
+<br/><br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nadyaal](https://github.com/nadyaal)
+## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbhachu&theme=nightowl)](https://git.io/streak-stats)
+![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbhachu&theme=nightowl&show_icons=true)
+<br/>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=rbhachu">
+</a>
 
-- 📫 How to reach me **alicyaanadya@gmail.com**
+### Most Used Languages&nbsp;&nbsp;
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Rishi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhachu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nadyaaliciaa.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadyaaliciaa.p" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nadya alicia putri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nadya alicia putri" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadyaal&show_icons=true&locale=en&layout=compact" alt="nadyaal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadyaal&show_icons=true&locale=en" alt="nadyaal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadyaal&" alt="nadyaal" /></p>
+## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
+<a target="_blank" title="https://www.bhachublog.com" href="https://www.bhachublog.com"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
