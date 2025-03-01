@@ -1,7 +1,7 @@
 # Hi, I'm Nadya and welcome to my GitHub Profile! 👋
 <br/>
 
-<img src=""/>
+<img src="me.jpg"/>
 
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
